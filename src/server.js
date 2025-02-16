@@ -1,8 +1,6 @@
-/**
- * Updated by trungquandev.com's author on August 17 2023
- * YouTube: https://youtube.com/@trungquandev
- * "A bit of fragrance clings to the hand that gives flowers!"
- */
+// thang2k6adu
+// FB: https://www.facebook.com/thang.936090
+// GitHub: https://github.com/thang2k6adu
 
 import express from 'express'
 import { mapOrder } from '~/utils/sorts.js'
